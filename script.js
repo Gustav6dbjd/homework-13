@@ -1,5 +1,5 @@
 
-/*
+/*   // first task
 async function fetchUser(userId) {
     try {
       const response = await fetch(`https:jsonplaceholder.typicode.com/users/${userId}`);
@@ -23,7 +23,7 @@ async function fetchUser(userId) {
 
   
 
- /*
+ /* //second task
 async function createUser(user) {
     try {
       let response = await fetch('https://jsonplaceholder.typicode.com/users', {
@@ -45,7 +45,7 @@ async function createUser(user) {
   }
   */
 
-/*
+/* third task
   async function updateUser(id, updatedData) {
     try {
       const response = await fetch(`https:jsonplaceholder.typicode.com/users/${id}`, {
